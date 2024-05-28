@@ -1,4 +1,9 @@
 site_url: https://bearnson.org
-site_name: bearnson.org website
+site_name: Bearnson.org
+nav:
+  - Home: index.md
+  - About: about.md
+  - Projects: projects.md
+  - Contact: contact.md
 theme:
   name: material
